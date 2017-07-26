@@ -1,7 +1,35 @@
 html {
   font-family: Verdana;
-  font-weight: normal;
-  font-size: 50px
-  color: White;
+  background-color: black;
   text-align: center;
+}
+
+h1 {
+  font-family: inherit;
+  font-weight: normal;
+  font-size: 50px;
+  color: White;
+}
+
+h2 {
+  font-family: inherit;
+  font-weight: 300;
+  font-size: 42px;
+  color: White;
+}
+
+a {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+p {
+  font-family: inherit;
+  font-size: 21px;
+  color: Gray;
+}
+
+#footer {
+  text-align: right;
+
 }
